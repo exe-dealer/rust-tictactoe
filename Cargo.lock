@@ -1,0 +1,4 @@
+[root]
+name = "rust-tictactoe"
+version = "0.1.0"
+
