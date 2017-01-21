@@ -1,6 +1,6 @@
 [package]
 name = "rust-tictactoe"
 version = "0.1.0"
-authors = ["exed"]
+authors = ["exe-dealer@yandex.ru"]
 
 [dependencies]
